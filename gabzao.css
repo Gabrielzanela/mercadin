@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    font-family: monospace;
+}
+
+header{
+    color:#fff;
+    background-color: rgb(48, 30, 210);
+    padding: 24px;
+}
+
+footer{
+    color:#fff;
+    background-color: rgb(48, 30, 210);
+    padding: 24px;
+}
+
+.container{
+margin: auto;
+margin-top: 16px;
+margin-bottom: 16px;
+width: 60%;
+border:2px solid cadetblue;
+border-radius: 16px;
+padding: 16px;
+}
+
+.div-produtos{
+    border: 2px solid cadetblue;
+    border: 16px;
+    padding: 16px;
+    margin-top: 8px;
+}
+.div-resultado{
+    border: 2px solid cadetblue;
+    border: 16px;
+    padding: 16px;
+    margin-top: 8px;
+}
+    
+
